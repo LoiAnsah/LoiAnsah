@@ -1,7 +1,11 @@
-👋🏼 Hi there! I’m Ama—a passionate problem-solver who loves everything related to software development, algorithms, and numbers.
+👋🏾 Hi there! I’m Ama , a Machine Learning and Software Engineer passionate about building accessible, data-driven applications that solve real-world problems.
 
-👩🏾‍💻 My journey revolves around coding, mathematical problem-solving, and hands-on projects. I’m constantly exploring new programming languages, building applications, and deepening my understanding of software development and mathematical modeling. I love tackling challenges that merge mathematics and coding, whether it’s through data structures, machine learning, or algorithm optimization.
+📍 Highlights:
+• ValidMind: Tested and debugged 10+ Jupyter notebooks to ensure code alignment with AI model-validation workflows, improving accuracy by 30%.
+• ValidMind: Contributed to the redesign and implementation of ValidMind’s documentation site using Quarto and custom layouts, boosting navigation efficiency by 40%.
+• Black Founders Network: Automated 100+ datasets with Python & BeautifulSoup, reducing manual work by 50%.
+• ML Project (SciBERT NLP): Engineered a text-mining pipeline using SciBERT embeddings to analyze 10,000+ research papers, uncovering emerging scientific trends through topic modelling and clustering.
 
-🚀 Currently, I’m seeking an internship to apply my programming skills in real-world projects, contribute to impactful software solutions, and continue growing as a developer.
+🎓 Currently pursuing a B.Sc. in Computer Science and Mathematics at Wilfrid Laurier University, concentrating in Big Data Systems with a minor in Physics. Open to Software Engineering and Machine Learning roles for Winter 2026 internships and new-grad positions.
 
-🌿 Feel free to reach me at loiscodes@gmail.com or simply message me—I’d love to connect! 😊
+🌿 Feel free to reach me at loiscodes@gmail.com or message me—I’d love to connect! 😊
